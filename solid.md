@@ -4,7 +4,7 @@ SOLID, субъективное прочтение
 - SRE/DI - знаю, прочувствтвовал, мне кажутся вечными
 - LSP/OSP/ISP - мне кажутся локальными приницпами, специфичными для OOП
 
-Очень важные приницпы (SRE/DI)
+1. Очень важные приницпы (SRE/DI)
 ------------------------------
 
 ### SRE
@@ -20,7 +20,7 @@ DI - очень помогает в случае написания тестов
 
 Часто альтернатива тестирования объекта без DI - это mocking, всегда когда mocking есть - smell. 
 
-Что-то тяготеющее к ООП (LSP/OSP/ISP)
+2. Что-то тяготеющее к ООП (LSP/OSP/ISP)
 -------------------------------------
 
 ### ISP
@@ -44,19 +44,16 @@ DI - очень помогает в случае написания тестов
 - [тут диаграммка с классом Shape()](https://github.com/alspirichev/SOLID#the-liskov-substitution-principle-lsp)
 
 
-Еще ссылки
-----------
-
-- [Текст и немного кода](https://github.com/nahidulhasan/solid-principles)
-- [репо на .NET, хорошие примеры](https://github.com/thangchung/clean-code-dotnet#solid)
-- [Clojure](https://www.infoq.com/presentations/SOLID-Clojure/#downloadPdf/)
-
 Три специализированных репо
 ---------------------------
 
 Упоминаются выше, есть примеры кода на разных яызках программирования:
 
-- <https://github.com/thangchung/clean-code-dotnet#solid>
+- <https://github.com/thangchung/clean-code-dotnet#solid> - репо на .NET, хорошие примеры
 - <https://github.com/alspirichev/SOLID>
-- <https://github.com/nahidulhasan/solid-principles>
+- <https://github.com/nahidulhasan/solid-principles> - текст и немного кода
   
+Добавление:
+
+- [лекция с Clojure](https://www.infoq.com/presentations/SOLID-Clojure/#downloadPdf/)
+
