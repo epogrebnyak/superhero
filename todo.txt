@@ -1,5 +1,25 @@
+Not trying:
+
+- [-] испольовать asciidoc + перекинуть в PDF
+
 To try:
 
-- испольовать asciidoc + перекинуть в PDF
-- большой тест на ознакомление с учебным планом или выявление целей  
-- список литературы добавить 
+- [ ] большой тест на ознакомление с учебным планом или выявление целей  
+- [x] список литературы добавить 
+- [ ] выделить reproducible research как отдельный репо
+- [ ] добавить: требования и ожидания (сложно)
+- [ ] интегрировать сюда другие свои репо
+- [ ] разделить базовые навыки и концепции
+
+Notes:
+
+- https://devguide.python.org/gitbootcamp/
+- Two views of programming by Edsger W. Dijkstra https://www.cs.utexas.edu/users/EWD/transcriptions/EWD05xx/EWD540.html
+- https://medium.com/@dan.ellis/you-dont-need-1mm-for-a-distributed-system-70901d4741e1
+- solid.md
+- ссылки на технологический стек компаний - присылалось
+
+EA: 
+
+- https://github.com/donnemartin/system-design-primer#company-architectures
+- https://www.infoworld.com/article/3309916/the-2018-enterprise-architecture-awards.html
