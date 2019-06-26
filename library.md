@@ -35,3 +35,7 @@
 and build a teaching community around them.](http://teachtogether.tech/)
 
 - [Learn how to design large-scale systems.](https://github.com/donnemartin/system-design-primer)
+
+- [Computer Science interview questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) - with OOP terminology checklist. 
+
+
