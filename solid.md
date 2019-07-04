@@ -1,5 +1,19 @@
+Об организации кода
+===================
+
+[Architectural advice](https://twitter.com/maciejwalkowiak/status/1146179460548440065):
+
+<blockquote class="twitter-tweet" data-lang="ru"><p lang="en" dir="ltr">1/6 <br>Few hints 💬 that may help in writing easier to maintain Java code 📢:<br><br>✅ organise packages by vertical slices instead of layers<br>✅ reference other aggregates only by ids instead of type</p>&mdash; Maciej Walkowiak 🍃 (@maciejwalkowiak) <a href="https://twitter.com/maciejwalkowiak/status/1146179460548440065?ref_src=twsrc%5Etfw">2 июля 2019 г.</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<https://github.com/darkleaf/app-from-scratch>
+
+<https://habr.com/ru/company/mobileup/blog/335382/>
+
 SOLID, субъективное прочтение 
 =============================
+
 
 - SRE/DI - знаю, прочувствтвовал, мне кажутся вечными
 - LSP/OSP/ISP - мне кажутся локальными приницпами, специфичными для OOП
