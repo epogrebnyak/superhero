@@ -75,6 +75,8 @@ https://www.youtube.com/watch?v=7aVZejD9DdU
 
 https://www.youtube.com/watch?v=DOAOkldg6SM
 
+![](https://user-images.githubusercontent.com/9265326/80586874-505ac780-8a1e-11ea-9327-599542bdf8d7.png)
+
 Алексей - мой знакомый, поэтому мне проще вылавливать ценные идеи в 
 его выступлении, без этого бы я сказал, что презентация чуть-чуть 
 быстрая (начало выступления - комментарий к предыдущему докладу).
