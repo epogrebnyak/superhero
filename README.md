@@ -1,7 +1,7 @@
 AI for Business Leaders
 =======================
 
-[Cсылка](/AI_for_leaders)
+[Cсылка](superhero/AI_for_leaders)
 
 
 Информационные технологии (ИТ) для бизнес-аналитиков
