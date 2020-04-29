@@ -24,7 +24,7 @@
 
 Константин Короткий, сооснователь Data Nerds
 
-https://youtu.be/BujPXw6U84o?t=2819
+<https://youtu.be/BujPXw6U84o?t=2819>
 
 Очень точно говорит о роли моделей в работе компании: основные проблемы не на 
 стороне какие модели придумать, а где взять нужные данные и даже если
@@ -36,7 +36,7 @@ https://youtu.be/BujPXw6U84o?t=2819
 
 Александр Хайтин, исполнительный директор Yandex Data Factory 
 
-https://www.youtube.com/watch?v=7aVZejD9DdU  
+<https://www.youtube.com/watch?v=7aVZejD9DdU>
 
 ![](https://user-images.githubusercontent.com/9265326/80586433-a24f1d80-8a1d-11ea-9f49-e108986eff65.png)
 
@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=7aVZejD9DdU
 
 Алексей Чернобровов, консультант по работе с данными
 
-https://www.youtube.com/watch?v=DOAOkldg6SM
+<https://www.youtube.com/watch?v=DOAOkldg6SM>
 
 ![](https://user-images.githubusercontent.com/9265326/80586874-505ac780-8a1e-11ea-9327-599542bdf8d7.png)
 
