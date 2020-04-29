@@ -14,12 +14,10 @@
 SOLID, субъективное прочтение 
 =============================
 
-
 - SRE/DI - знаю, прочувствтвовал, мне кажутся вечными
 - LSP/OSP/ISP - мне кажутся локальными приницпами, специфичными для OOП
 
 ## 1. Очень важные приницпы (SRE/DI)
-
 
 ### SRE
 
@@ -53,6 +51,7 @@ DI - очень помогает в случае написания тестов
 
 Мне кажется, можно объяснить через "делайте что-то, что обеспечит переиспользование кода". Длинное, сложное, название приницпа, но весь вопрос в том, что классы должны хорошо наследоваться. Не пишите классов, которые будут наследоваться плохо. 
 
+- [contravariance](https://apocalisp.wordpress.com/2010/10/06/liskov-substitution-principle-is-contravariance/)
 - [большое обсуждение в SO](https://stackoverflow.com/questions/56860/what-is-an-example-of-the-liskov-substitution-principle)
 - [тут диаграммка с классом Shape()](https://github.com/alspirichev/SOLID#the-liskov-substitution-principle-lsp)
 
