@@ -39,3 +39,12 @@ Hands-on programming
 - Теория автоматов
 - Регулярные выражения
 - Сериализация
+
+
+Также для мотивации
+-------------------
+
+- [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+- [The Hard Part of Learning a Language](https://www.hillelwayne.com/post/learning-a-language)
+- [27 languages to improve your Python](https://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
+- [What “classic” (>10 years old) technical blog posts are still relevant today?](https://twitter.com/beeonaposy/status/1219820225249644544)
